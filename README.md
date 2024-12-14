@@ -16,12 +16,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jibin7jose&show_icons=true&locale=en" alt="jibin7jose" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jibin7jose&" alt="jibin7jose" /></p>
-<p align="center">
- 
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emirkaanozdemr&theme=2077" width="600" height="300" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=emirkaanozdemr&theme=tokyo-night&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"></img>
 
-</p>
 
 
 

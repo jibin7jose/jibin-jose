@@ -16,4 +16,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jibin7jose&show_icons=true&locale=en" alt="jibin7jose" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jibin7jose&" alt="jibin7jose" /></p>
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=emirkaanozdemr&style=for-the-badge&color=orange" alt=""/>
+</div>
+![snake gif](https://github.com/jibin7jose/jibin7jose/blob/output/github-contribution-grid-snake-dark.svg)
 

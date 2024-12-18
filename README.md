@@ -1,4 +1,4 @@
-
+<img alt="Follow @timolins on Twitter" src="https://github.com/jibin7jose/assets/header.svg"/></a>
 <h1 align="center">Hi 👋, I'm Jibin Jose</h1>
 <h3 align="center">Computer Science Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">

@@ -1,4 +1,65 @@
-<img src="https://github.com/.github/workflows/header.svg"/>
+<svg width="1500" height="500" viewBox="0 0 1500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g clip-path="url(#clip0)">
+    <rect width="1500" height="500"/>
+    <path d="M1 498L751 33L1501 498" stroke="#E9E9E9" stroke-width="4" stroke-linecap="round"/>
+    <path d="M-397 498L751 33L1899 498" stroke="#E9E9E9" stroke-width="4" stroke-linecap="round"/>
+    <path d="M-1136 498L751 33L2638 498" stroke="#E9E9E9" stroke-width="4" stroke-linecap="round"/>
+    <path d="M251 498L750.5 33L1250 498" stroke="#E9E9E9" stroke-width="4" stroke-linecap="round"/>
+    <path d="M464 498L750.474 33L1036.95 498" stroke="#E9E9E9" stroke-width="4" stroke-linecap="round"/>
+    <path d="M654 498L750 33L846 498" stroke="#E9E9E9" stroke-width="4" stroke-linecap="round"/>
+    <path class="line-100" d="M-128 500C1267.6 500 1624.83 500 1629 500" stroke="#E9E9E9" stroke-width="4"/>
+    <path class="line-100" d="M-128 400C1267.6 400 1624.83 400 1629 400" stroke="#E9E9E9" stroke-width="4"/>
+    <path class="line-75" d="M-128 300C1267.6 300 1624.83 300 1629 300" stroke="#E9E9E9" stroke-width="4"/>
+    <path class="line-75" d="M-128 225C1267.6 225 1624.83 225 1629 225" stroke="#E9E9E9" stroke-width="4"/>
+    <path class="line-50" d="M-128 175C1267.6 175 1624.83 175 1629 175" stroke="#E9E9E9" stroke-width="4"/>
+    <rect width="1501" height="500" fill="url(#paint0_linear)"/>
+  </g>
+
+  <text fill="black" xml:space="preserve" style="white-space: pre" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="64" font-weight="bold" letter-spacing="0em">
+    <tspan x="595.781" y="251.75">Jibin Jose</tspan>
+  </text>
+
+  <defs>
+    <linearGradient id="paint0_linear" x1="751" y1="205.5" x2="750.5" y2="526.104" gradientUnits="userSpaceOnUse">
+      <stop stop-color="white"/>
+      <stop offset="1" stop-color="white" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="clip0">
+      <rect width="1500" height="500" rx="20"/>
+    </clipPath>
+  </defs>
+
+  <style type="text/css">
+    @keyframes move-100 {
+      from {transform: translateY(0)}
+      to {transform: translateY(-100px)}
+    }
+    @keyframes move-75 {
+      from {transform: translateY(0)}
+      to {transform: translateY(-75px)}
+    }
+    @keyframes line-50 {
+      from {transform: translateY(0)}
+      to {transform: translateY(-50px)}
+    }
+    @keyframes pulse-opacity {
+      0%, 100% {opacity: 0.5}
+      50% {opacity: 1}
+    }
+    .opacity-pulse {
+      animation: pulse-opacity 10s infinite;
+    }
+    .line-100 {
+      animation: move-100 4s infinite linear;
+    }
+    .line-75 {
+      animation: move-75 4s infinite linear;
+    }
+    .line-50 {
+      animation: move-50 4s infinite linear;
+    }
+  </style>
+</svg>
 <h1 align="center">Hi 👋, I'm Jibin Jose</h1>
 <h3 align="center">Computer Science Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">

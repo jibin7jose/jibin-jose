@@ -1,0 +1,67 @@
+<svg width="1500" height="500" viewBox="0 0 1500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<rect width="1500" height="500"/>
+<path d="M1 498L751 33L1501 498" stroke="#E9E9E9" stroke-width="4" stroke-linecap="round"/>
+<path d="M-397 498L751 33L1899 498" stroke="#E9E9E9" stroke-width="4" stroke-linecap="round"/>
+<path d="M-1136 498L751 33L2638 498" stroke="#E9E9E9" stroke-width="4" stroke-linecap="round"/>
+<path d="M251 498L750.5 33L1250 498" stroke="#E9E9E9" stroke-width="4" stroke-linecap="round"/>
+<path d="M464 498L750.474 33L1036.95 498" stroke="#E9E9E9" stroke-width="4" stroke-linecap="round"/>
+<path d="M654 498L750 33L846 498" stroke="#E9E9E9" stroke-width="4" stroke-linecap="round"/>
+<path class="line-100" d="M-128 500C1267.6 500 1624.83 500 1629 500" stroke="#E9E9E9" stroke-width="4"/>
+<path class="line-100" d="M-128 400C1267.6 400 1624.83 400 1629 400" stroke="#E9E9E9" stroke-width="4"/>
+<path class="line-75" d="M-128 300C1267.6 300 1624.83 300 1629 300" stroke="#E9E9E9" stroke-width="4"/>
+<path class="line-75" d="M-128 225C1267.6 225 1624.83 225 1629 225" stroke="#E9E9E9" stroke-width="4"/>
+<path class="line-50" d="M-128 175C1267.6 175 1624.83 175 1629 175" stroke="#E9E9E9" stroke-width="4"/>
+<rect width="1501" height="500" fill="url(#paint0_linear)"/>
+<ellipse opacity="0.58" cx="1350" cy="512" rx="262" ry="141" class="opacity-pulse" fill="url(#paint1_radial_14_2)"/>
+<rect x="1149" y="429" width="330" height="52" rx="10" fill="white" fill-opacity="0.95"/>
+<rect x="1149" y="429" width="330" height="52" rx="10" fill="#1D9BF0" fill-opacity="0.15"/>
+<text fill="#1D9BF0" xml:space="preserve" style="white-space: pre" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="30" font-weight="600" letter-spacing="0em" text-anchor="middle"><tspan x="1335" y="465.664">Follow @timolins</tspan></text>
+<path d="M1193.62 448.722C1193.64 449.015 1193.64 449.307 1193.64 449.603C1193.64 458.611 1186.83 469 1174.38 469V468.995C1170.7 469 1167.1 467.939 1164 465.938C1164.53 466.003 1165.07 466.036 1165.61 466.037C1168.66 466.04 1171.62 465.01 1174.02 463.113C1171.12 463.058 1168.58 461.156 1167.69 458.379C1168.71 458.576 1169.76 458.535 1170.75 458.261C1167.59 457.619 1165.32 454.825 1165.32 451.579C1165.32 451.55 1165.32 451.521 1165.32 451.493C1166.26 452.021 1167.32 452.314 1168.39 452.346C1165.42 450.344 1164.5 446.359 1166.3 443.244C1169.74 447.503 1174.81 450.092 1180.25 450.366C1179.71 447.998 1180.45 445.517 1182.21 443.852C1184.94 441.271 1189.23 441.404 1191.79 444.148C1193.31 443.847 1194.76 443.287 1196.09 442.493C1195.58 444.071 1194.53 445.412 1193.11 446.263C1194.45 446.104 1195.77 445.742 1197 445.19C1196.09 446.562 1194.95 447.756 1193.62 448.722Z" fill="#1D9BF0"/>
+</g>
+
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="64" font-weight="bold" letter-spacing="0em"><tspan x="595.781" y="251.75">Timo Lins</tspan></text>
+<defs>
+<linearGradient id="paint0_linear" x1="751" y1="205.5" x2="750.5" y2="526.104" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+<radialGradient id="paint1_radial_14_2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1350.5 512) rotate(90) scale(141 262.5)">
+<stop stop-color="#B5E1FF" stop-opacity="0.35"/>
+<stop offset="1" stop-color="#1D9BF0" stop-opacity="0"/>
+</radialGradient>
+<clipPath id="clip0">
+<rect width="1500" height="500" rx="20"/>
+</clipPath>
+</defs>
+<style type="text/css">
+@keyframes move-100 {
+  from {transform: translateY(0)}
+  to {transform: translateY(-100px)}
+}
+@keyframes move-75 {
+  from {transform: translateY(0)}
+  to {transform: translateY(-75px)}
+}
+@keyframes line-50 {
+  from {transform: translateY(0)}
+  to {transform: translateY(-50px)}
+}
+@keyframes pulse-opacity {
+  0%, 100% {opacity: 0.5}
+  50% {opacity: 1}
+}
+.opacity-pulse {
+  animation: pulse-opacity 10s infinite;
+}
+.line-100 {
+  animation: move-100 4s infinite linear;
+}
+.line-75 {
+  animation: move-75 4s infinite linear;
+}
+.line-50 {
+  animation: move-50 4s infinite linear;
+}
+</style>
+</svg>
